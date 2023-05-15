@@ -12,7 +12,7 @@ https://universe.roboflow.com/workspace-zqssx/knife-dataset-new/dataset/1
 https://public.roboflow.com/object-detection/pistols/1
 
 
-## Citations
+## Citations:
 Sample Video
 https://youtu.be/BaUNPpgHacM
 https://youtu.be/lvFAfuZmx6c
