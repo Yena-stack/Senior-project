@@ -13,7 +13,8 @@ https://public.roboflow.com/object-detection/pistols/1
 
 
 ## Future works / improvements:
-Work on surveillance camera (CCTV) to detect objects in real-time "\n"
+Work on surveillance camera (CCTV) to detect objects in real-time
+
 Assist visually impaired individuals to trigger alarm when they are in a potential danger
 
 
